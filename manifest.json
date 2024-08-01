@@ -1,0 +1,10 @@
+{
+  "id": "theme-switcher",
+  "name": "Theme Switcher",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.0",
+  "description": "A plugin to switch between dark and light themes",
+  "author": "Twoje Imię",
+  "authorUrl": "https://twój-adres-strony.com",
+  "isDesktopOnly": false
+}
